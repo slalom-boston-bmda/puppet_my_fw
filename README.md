@@ -1,6 +1,4 @@
-puppet_my_fw
-============
+puppet_jdk
+==========
 
-puppet_my_fw
-
-.
+This makes a local APT or YUM repo out of a directory under the "files" dir in this module, and then installs the JDK package
